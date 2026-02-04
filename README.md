@@ -1,6 +1,8 @@
 # open-resources
 
-A curated, community-driven list of developer resources. Whether you're learning, building, or shipping—find tools, docs, and references in one place.
+A curated, community-driven list of developer resources. Whether you're learning, building, or shipping.
+
+Find tools, docs, and references in one place.
 
 ## How resources are organized
 
