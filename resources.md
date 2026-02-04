@@ -23,7 +23,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Expo | Build and deploy React Native apps. | https://expo.dev |
+| Expo | Full-stack React Native framework with cloud services for building and deploying apps. | https://expo.dev |
 | Next.js | React framework with SSR, static export, and App Router. | https://nextjs.org |
 
 ---
@@ -40,6 +40,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
+| Reacticx | Copy-paste production-ready React Native components with smooth animations. Expo compatible. | https://www.reacticx.com |
 | shadcn/ui | Copy-paste components built with Radix and Tailwind. | https://ui.shadcn.com |
 
 ---
@@ -48,9 +49,9 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Heroicons | Hand-crafted SVG icons. | https://heroicons.com |
+| Heroicons | Hand-crafted SVG icons by the makers of Tailwind CSS. | https://heroicons.com |
 | Lucide | Open-source icon set, consistent and customizable. | https://lucide.dev |
-| Thiings | Icon set and design references. | https://www.thiings.com |
+| Thiings | Icon set and design references. | https://www.thiings.co/things |
 
 ---
 
@@ -68,8 +69,8 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 | Resource | Description | Link |
 |----------|-------------|------|
 | Checklist Design | Design checklists for UI, UX, and branding. | https://www.checklist.design |
-| Relume | AI sitemap and wireframe tool for web design. | https://www.relume.io |
-| UI Colors | Generate palettes from a single color. | https://uicolors.app |
+| Relume | AI sitemap, wireframes, and style guides for web design. Export to Figma, Webflow, React. | https://www.relume.io |
+| UI Colors | Tailwind CSS color generator; create and visualize palettes from a single color. | https://uicolors.app |
 
 ---
 
@@ -77,7 +78,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| TanStack Query | Async state, caching, and server state for React. | https://tanstack.com/query/latest |
+| TanStack Query | Powerful async state, caching, and server-state utilities for React. | https://tanstack.com/query/latest |
 
 ---
 
@@ -93,7 +94,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Context7 | Up-to-date docs and code examples for any library. | https://context7.com |
+| Context7 | Up-to-date documentation for LLMs and AI code editors. | https://context7.com |
 
 ---
 
@@ -109,6 +110,8 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
+| Skills.sh | Directory of reusable agent skills for AI coding agents (Cursor, Claude, etc.). Install with npx skills add. | https://skills.sh |
+| UI Skills | Agent skills to polish interfaces built by AI (Cursor, Claude Code, OpenCode). | https://www.ui-skills.com |
 
 ---
 
@@ -116,8 +119,5 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Reacticx | React patterns, hooks, and best practices. | https://www.reacticx.com |
 | Refactoring Guru | Refactoring, design patterns, clean code. | https://refactoring.guru |
-| Skills.sh | Curated developer skills and learning paths. | https://skills.sh |
-| TypeHero | TypeScript practice and challenges. | https://typehero.dev |
-| UI Skills | UI-focused skills and resources. | https://www.ui-skills.com |
+| TypeHero | Interactive TypeScript challenges and community for developers. | https://typehero.dev |
