@@ -14,6 +14,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 - [Validation](#validation)
 - [Documentation](#documentation)
 - [Hosting](#hosting)
+- [Tools](#tools)
 - [MCP](#mcp)
 - [Agentic development](#agentic-development)
 - [Learning](#learning)
@@ -105,6 +106,14 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 | Resource | Description | Link |
 |----------|-------------|------|
 | Vercel | Hosting and deployment for Next.js and front-end apps. | https://vercel.com |
+
+---
+
+## Tools
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Mole | CLI to deep clean and optimize your Mac: caches, app uninstall, disk analyzer, build-artifact purge, system monitoring. | https://github.com/tw93/Mole |
 
 ---
 
