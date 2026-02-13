@@ -4,56 +4,20 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 ## Table of contents
 
-- [React frameworks](#react-frameworks)
-- [Headless components](#headless-components)
-- [Designed components](#designed-components)
-- [Icons](#icons)
 - [Accessibility](#accessibility)
-- [Design](#design)
-- [Data fetching](#data-fetching)
-- [Validation](#validation)
-- [Documentation](#documentation)
-- [Hosting](#hosting)
-- [Tools](#tools)
-- [MCP](#mcp)
 - [Agentic development](#agentic-development)
+- [Data fetching](#data-fetching)
+- [Design](#design)
+- [Designed components](#designed-components)
+- [Documentation](#documentation)
+- [Headless components](#headless-components)
+- [Hosting](#hosting)
+- [Icons](#icons)
 - [Learning](#learning)
-
----
-
-## React frameworks
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Expo | Full-stack React Native framework with cloud services for building and deploying apps. | https://expo.dev |
-| Next.js | React framework with SSR, static export, and App Router. | https://nextjs.org |
-
----
-
-## Headless components
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Base UI | Unstyled, accessible React component primitives. | https://base-ui.com |
-
----
-
-## Designed components
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Reacticx | Copy-paste production-ready React Native components with smooth animations. Expo compatible. | https://www.reacticx.com |
-| shadcn/ui | Copy-paste components built with Radix and Tailwind. | https://ui.shadcn.com |
-
----
-
-## Icons
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Heroicons | Hand-crafted SVG icons by the makers of Tailwind CSS. | https://heroicons.com |
-| Lucide | Open-source icon set, consistent and customizable. | https://lucide.dev |
-| Thiings | Icon set and design references. | https://www.thiings.co/things |
+- [MCP](#mcp)
+- [React frameworks](#react-frameworks)
+- [Tools](#tools)
+- [Validation](#validation)
 
 ---
 
@@ -63,6 +27,23 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 |----------|-------------|------|
 | A11y Project Checklist | Accessibility checklist for web projects. | https://www.a11yproject.com/checklist/ |
 | Randoma11y | Generator for accessible color combinations. | https://randoma11y.com |
+
+---
+
+## Agentic development
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Skills.sh | Directory of reusable agent skills for AI coding agents (Cursor, Claude, etc.). Install with npx skills add. | https://skills.sh |
+| UI Skills | Agent skills to polish interfaces built by AI (Cursor, Claude Code, OpenCode). | https://www.ui-skills.com |
+
+---
+
+## Data fetching
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| TanStack Query | Powerful async state, caching, and server-state utilities for React. | https://tanstack.com/query/latest |
 
 ---
 
@@ -77,19 +58,12 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 ---
 
-## Data fetching
+## Designed components
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| TanStack Query | Powerful async state, caching, and server-state utilities for React. | https://tanstack.com/query/latest |
-
----
-
-## Validation
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Zod | TypeScript-first schema validation (forms, env, API). | https://zod.dev |
+| Reacticx | Copy-paste production-ready React Native components with smooth animations. Expo compatible. | https://www.reacticx.com |
+| shadcn/ui | Copy-paste components built with Radix and Tailwind. | https://ui.shadcn.com |
 
 ---
 
@@ -101,6 +75,14 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 ---
 
+## Headless components
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Base UI | Unstyled, accessible React component primitives. | https://base-ui.com |
+
+---
+
 ## Hosting
 
 | Resource | Description | Link |
@@ -109,11 +91,22 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 ---
 
-## Tools
+## Icons
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Mole | CLI to deep clean and optimize your Mac: caches, app uninstall, disk analyzer, build-artifact purge, system monitoring. | https://github.com/tw93/Mole |
+| Heroicons | Hand-crafted SVG icons by the makers of Tailwind CSS. | https://heroicons.com |
+| Lucide | Open-source icon set, consistent and customizable. | https://lucide.dev |
+| Thiings | Icon set and design references. | https://www.thiings.co/things |
+
+---
+
+## Learning
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Refactoring Guru | Refactoring, design patterns, clean code. | https://refactoring.guru |
+| TypeHero | Interactive TypeScript challenges and community for developers. | https://typehero.dev |
 
 ---
 
@@ -125,18 +118,25 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 ---
 
-## Agentic development
+## React frameworks
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Skills.sh | Directory of reusable agent skills for AI coding agents (Cursor, Claude, etc.). Install with npx skills add. | https://skills.sh |
-| UI Skills | Agent skills to polish interfaces built by AI (Cursor, Claude Code, OpenCode). | https://www.ui-skills.com |
+| Expo | Full-stack React Native framework with cloud services for building and deploying apps. | https://expo.dev |
+| Next.js | React framework with SSR, static export, and App Router. | https://nextjs.org |
 
 ---
 
-## Learning
+## Tools
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Refactoring Guru | Refactoring, design patterns, clean code. | https://refactoring.guru |
-| TypeHero | Interactive TypeScript challenges and community for developers. | https://typehero.dev |
+| Mole | CLI to deep clean and optimize your Mac: caches, app uninstall, disk analyzer, build-artifact purge, system monitoring. | https://github.com/tw93/Mole |
+
+---
+
+## Validation
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Zod | TypeScript-first schema validation (forms, env, API). | https://zod.dev |
