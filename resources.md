@@ -14,6 +14,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 - [Validation](#validation)
 - [Documentation](#documentation)
 - [Hosting](#hosting)
+- [MCP](#mcp)
 - [Agentic development](#agentic-development)
 - [Learning](#learning)
 
@@ -104,6 +105,14 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 | Resource | Description | Link |
 |----------|-------------|------|
 | Vercel | Hosting and deployment for Next.js and front-end apps. | https://vercel.com |
+
+---
+
+## MCP
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Chrome DevTools MCP | MCP server so coding agents (Cursor, Claude, etc.) can control and inspect a live Chrome browser — automation, debugging, performance. | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 
 ---
 
