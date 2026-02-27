@@ -51,6 +51,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 
 | Resource | Description | Link |
 |----------|-------------|------|
+| Aura | AI website builder to create beautiful landing pages from prompts (Gemini). | https://www.aura.build/ |
 | Checklist Design | Design checklists for UI, UX, and branding. | https://www.checklist.design |
 | Relume | AI sitemap, wireframes, and style guides for web design. Export to Figma, Webflow, React. | https://www.relume.io |
 | Spotted in Prod | Curated collection of the very best of iOS — design inspiration and references. | https://www.spottedinprod.com/ |
