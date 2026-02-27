@@ -16,6 +16,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 - [Learning](#learning)
 - [MCP](#mcp)
 - [React frameworks](#react-frameworks)
+- [Testing](#testing)
 - [Tools](#tools)
 - [Validation](#validation)
 
@@ -126,6 +127,14 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 |----------|-------------|------|
 | Expo | Full-stack React Native framework with cloud services for building and deploying apps. | https://expo.dev |
 | Next.js | React framework with SSR, static export, and App Router. | https://nextjs.org |
+
+---
+
+## Testing
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Vitest | Vite-native testing framework; Jest-compatible, ESM/TypeScript/JSX out of the box. | https://vitest.dev/ |
 
 ---
 
