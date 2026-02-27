@@ -53,6 +53,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 |----------|-------------|------|
 | Checklist Design | Design checklists for UI, UX, and branding. | https://www.checklist.design |
 | Relume | AI sitemap, wireframes, and style guides for web design. Export to Figma, Webflow, React. | https://www.relume.io |
+| Spotted in Prod | Curated collection of the very best of iOS — design inspiration and references. | https://www.spottedinprod.com/ |
 | UI Colors | Tailwind CSS color generator; create and visualize palettes from a single color. | https://uicolors.app |
 | Web Design Museum | Exhibits screenshots and videos of websites, apps, software, and Flash games from the 1990s to the 2000s. | https://www.webdesignmuseum.org |
 
