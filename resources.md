@@ -100,6 +100,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 | Resource | Description | Link |
 |----------|-------------|------|
 | Heroicons | Hand-crafted SVG icons by the makers of Tailwind CSS. | https://heroicons.com |
+| Its Hover | Collection d’icônes animées fluides et de qualité, à copier-coller dans l’app ; compatible shadcn via CLI. | https://www.itshover.com/icons |
 | Lucide | Open-source icon set, consistent and customizable. | https://lucide.dev |
 | Thiings | Icon set and design references. | https://www.thiings.co/things |
 
