@@ -10,6 +10,7 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 - [Design](#design)
 - [Designed components](#designed-components)
 - [Documentation](#documentation)
+- [Email](#email)
 - [Headless components](#headless-components)
 - [Hosting](#hosting)
 - [Icons](#icons)
@@ -76,6 +77,14 @@ Curated list of tools, docs, and references for front-end development (Next.js, 
 | Resource | Description | Link |
 |----------|-------------|------|
 | Context7 | Up-to-date documentation for LLMs and AI code editors. | https://context7.com |
+
+---
+
+## Email
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Resend | Email API for developers to send transactional and marketing emails at scale. | https://resend.com |
 
 ---
 
